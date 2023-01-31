@@ -1,16 +1,21 @@
-# firebase_social_auth
+# Firebase social Auth
 
-A new Flutter project.
+## In this app includes below mentioned 4 type of login.
+  
+* Google Login
+* Facebook Login
+* Twitter Login
+* Phone Number Login
 
-## Getting Started
+###  Using firebase_authentication and data stores in firestore in users collaction.
+###  If user logged in then user redirected to home page(using shared_preferences).
 
-This project is a starting point for a Flutter application.
+<p>
+  <img align="left" src="https://user-images.githubusercontent.com/96048173/215680034-c61fa8ee-23d2-4f0f-ad8e-7ae5e87ede8d.JPG" alt="fire_auth" />
+  </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+### For Ask Something: Email: voraravi1234@gmail.com
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
