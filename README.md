@@ -7,7 +7,8 @@
 * Twitter Login
 * Phone Number Login
 
-###  Using firebase_authentication and data stores in firestore in users collection.
+###  Using firebase_authentication user has multiple choice to login him/her account.
+###  Using firebase_firestore data stores in firestore_database in collection.
 ###  If user logged in then user redirected to home page(using shared_preferences).
 
 <p>
